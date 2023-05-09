@@ -8,7 +8,7 @@
         <beforeApplicationStartup />
       </update>
     </subscription>
-    <deploymentProvider codebase="https://github.com/ahinabil/truckload/truck_load.application" />
+    <deploymentProvider codebase="https://github.com/EbaadAli/Truck_Load/truck_load.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
@@ -21,7 +21,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>0wKhiXFbDPJQB2niWsb9BZjN41gp4T5DpZok7DDtUds=</dsig:DigestValue>
+        <dsig:DigestValue>h4i7KIUGyv0vJDp4YQGJFlukg+A3q+s07wXY+r0HI4I=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
