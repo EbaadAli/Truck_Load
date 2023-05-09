@@ -358,7 +358,7 @@ namespace truck_load
             
             if(selectedValue == "No item available")
             {
-                MessageBox.Show("Opps, no item available to be loaded");
+                MessageBox.Show("Oops, no item available to be loaded");
             }
             else
             {
