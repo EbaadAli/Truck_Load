@@ -8,7 +8,7 @@ Enjoy!
 
 REQUIREMENTS:
 
-The application will be called Load Truck.
+The application will be called Truck Load.
 It will:
 Create a new truck or load an existing Truck
 Allow selecting one or more Box items to go on the truck from those Box items in inventory
